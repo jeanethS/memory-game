@@ -181,3 +181,22 @@ document.addEventListener("DOMContentLoaded", () => {
 
   createBoard();
 });
+/*Partner Tiendanube											
+Objetivo: Lograr que el mayor número de tiendas que han transaccionado nos pongan un buen review en la página de tiendanube.											
+											
+Hola (nombre del merchant) soy XXX del equipo Tech Champs de Conekta											
+Espero no encontrarte ocupadx, quiero tomar 2 minutos de tu tiempo para compartirte información de soporte y realizarte una muy breve encuesta											
+Preguntas:											
+											
+1 ¿Cómo ha sido tu experiencia trabajando con Conekta como plataforma de pago?											
+2 ¿Seguirá utilizando Conekta como su pasarela de pagos?											
+3 ¿Qué mejoraría de nuestra plataforma en la parte de integración o servicio?											
+4 Del 1 al 10 (10 siendo claro que sí y 1 siendo No rotundo) ¿Recomendarias a tus amigos y familiares a Conekta?											
+											
+Con base en la experiencia que ha tenido con nosotros, le agradecería muchísimo si pudiera dejar una calificación y un comentario en la página de Tiendanube para así podamos seguir brindando el mejor servicio.											
+											
+Link para calificar:											
+https://www.tiendanube.com.mx/tienda-aplicaciones-nube/conekta/rating											
+											
+Calificaciones actuales:											
+https://www.tiendanube.com.mx/tienda-aplicaciones-nube/conekta											*/
